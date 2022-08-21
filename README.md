@@ -57,3 +57,10 @@ Recursive sampling, using depth extrusion and shading technique, blending light 
 
 ![](https://i.imgur.com/M9M9KoY.jpg)
 ---
+
+The work was over 50 mb and throws an error on SuperRare Upon Mint so Jin @dankvr helped me fix the file. It turns out that I was using 7 8k textures and we compressed them down to 4k
+
+https://gltf.report/ he used this tool to do so
+
+![](https://i.imgur.com/ofMpKF0.jpg)
+
