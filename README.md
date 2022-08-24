@@ -4,6 +4,12 @@
 
 Recursive sampling, using depth extrusion and shading technique, blending light and paint trying to create a transition between data types
 
+Check out the works in Mozilla Hubs to view in 3d from your browser
+
+Data Types 1 https://hubs.mozilla.com/zuJ3KvD/data-types-1
+Data Types 2 https://hubs.mozilla.com/xhrwLbD/data-types-2
+Data Types 3 https://hubs.mozilla.com/3BqmARb/data-types-3
+
 **Medium**: 3d GLB
 
 **Description**: 
@@ -36,19 +42,10 @@ Recursive sampling, using depth extrusion and shading technique, blending light 
 
 
 ## Data Types 2 (animated)
-![](https://i.imgur.com/4gWQQmB.jpg)
----
-
-![](https://i.imgur.com/Q9EyK8J.png)
----
-
-![](https://i.imgur.com/9re2Scf.png)
----
 
 ![](https://i.imgur.com/8paEUgf.gif)
 ---
 
----
 ![](https://i.imgur.com/8rE07Z3.png)
 ---
 
@@ -64,3 +61,20 @@ https://gltf.report/ he used this tool to do so
 
 ![](https://i.imgur.com/ofMpKF0.jpg)
 
+# Data Types 3
+
+![](https://i.imgur.com/ndY7zcq.png)
+
+![](https://i.imgur.com/tsbJVhp.png)
+
+![](https://i.imgur.com/BllbK16.png)
+
+![](https://i.imgur.com/580DNyQ.png)
+
+![](https://i.imgur.com/uIad9y0.png)
+
+![](https://i.imgur.com/gtGjTan.png)
+
+![](https://i.imgur.com/jR5SKW0.jpg)
+
+![](https://i.imgur.com/GXKmBan.jpg)
